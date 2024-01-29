@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js, TypeScript, React, Express, PHP, Python**
 
-- 👨‍💻 All of my projects are available at [abiyyirahinda.garam2musim.com](abiyyirahinda.garam2musim.com)
+- 👨‍💻 All of my projects are available at (https://abiyyirahinda.garam2musim.com)
 
 - 📫 How to reach me **muhammadabiyyi73@gmail.com**
 
