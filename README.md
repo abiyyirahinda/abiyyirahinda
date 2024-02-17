@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiyyirahinda&label=Profile%20views&color=0e75b6&style=flat" alt="abiyyirahinda" /> </p>
 
-- 🌱 I’m currently learning **Next Js, TypeScript, React, Express, PHP, Python**
+- 🌱 I’m currently learning **Next Js, TypeScript, React, Node. Js, Golang, PHP, Python**
 
 - 👨‍💻 All of my projects are available at https://abiyyirahinda.garam2musim.com
 
