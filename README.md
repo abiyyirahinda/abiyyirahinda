@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiyyirahinda&label=Profile%20views&color=0e75b6&style=flat" alt="abiyyirahinda" /> </p>
 
-- 🌱 I’m currently learning **Next Js, TypeScript, React, Node. Js, Golang, PHP, Python**
+- 🌱 I’m currently learning framework**Meteor JS, Next JS**
 
-- 👨‍💻 All of my projects are available at https://abiyyirahinda.garam2musim.com
+- 🏋️‍♂️ Comfort Programming Language**Javascript, Typescript, Python**
+  
+- 👨‍💻 All of my projects are available at https://abiyyirahinda.com
 
 - 📫 How to reach me **muhammadabiyyi73@gmail.com**
 
